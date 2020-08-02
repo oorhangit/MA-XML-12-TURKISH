@@ -1,10 +1,10 @@
 <strings>
-    <string name="MON" value="PTESİ"/>
-    <string name="TUE" value="SALI"/>
+    <string name="MON" value="PZT"/>
+    <string name="TUE" value="SAL"/>
     <string name="WED" value="ÇAR"/>
     <string name="THU" value="PER"/>
-    <string name="FRI" value="CUMA"/>
-    <string name="SAT" value="CTESİ"/>
-    <string name="SUN" value="PAZAR"/>
+    <string name="FRI" value="CUM"/>
+    <string name="SAT" value="CMT"/>
+    <string name="SUN" value="PAZ"/>
     <string name="language" value="tr_TR"/>
 </strings>
